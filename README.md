@@ -1,2 +1,3 @@
 # Excel-Projects!
-This respository contains projects work on using only Microsoft Excel
+This repository contains projects that were worked on using only Microsoft Excel.
+
