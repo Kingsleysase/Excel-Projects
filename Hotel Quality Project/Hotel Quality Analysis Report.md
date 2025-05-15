@@ -1,19 +1,20 @@
 # Hotel Quality Analysis Project
 
 ## Table of Contents
-1. [Introduction](Introduction)
-2. [Business Problem / Context](Business-Problem--Context)  
-3. [Objective of the Project](Objective-of-The-Project)  
-4. [Dataset Description](#-Dataset-Description)  
-5. [Tools & Technologies Used](#-Tools--Technologies-Used)  
-6. [Project Scope](#-Project-Scope)  
-7. [Data Collection & Integration](#-Data-Collection--Integration)  
-8. [Data Cleaning & Preparation](#-Data-Cleaning--Preparation)  
-9. [Exploratory Data Analysis (EDA)](#-Exploratory-Data-Analysis-eda)  
-10. [Data Visualization & Dashboarding](#-Data-Visualization--Dashboarding)  
-11. [Insights & Interpretation](#-Insights--Interpretation)  
-12. [Recommendations](#-Recommendations)  
-13. [Conclusion](#-Conclusion)
+1. [Introduction](#introduction)  
+2. [Business Problem / Context](#business-problem--context)  
+3. [Objective of the Project](#objective-of-the-project)  
+4. [Dataset Description](#dataset-description)  
+5. [Tools & Technologies Used](#tools--technologies-used)  
+6. [Project Scope](#project-scope)  
+7. [Data Collection & Integration](#data-collection--integration)  
+8. [Data Cleaning & Preparation](#data-cleaning--preparation)  
+9. [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)  
+10. [Data Visualization & Dashboarding](#data-visualization--dashboarding)  
+11. [Insights & Interpretation](#insights--interpretation)  
+12. [Recommendations](#recommendations)  
+13. [Conclusion](#conclusion)  
+
 
 ---
 
