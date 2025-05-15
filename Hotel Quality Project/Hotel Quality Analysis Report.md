@@ -1,9 +1,9 @@
 # Hotel Quality Analysis Project
 
 ## Table of Contents
-1. [Introduction][#-Introduction]  
-2. [Business Problem / Context](#-Business-Problem--Context)  
-3. [Objective of the Project](#-Objective-of-The-Project)  
+1. [Introduction](Introduction)
+2. [Business Problem / Context](Business-Problem--Context)  
+3. [Objective of the Project](Objective-of-The-Project)  
 4. [Dataset Description](#-Dataset-Description)  
 5. [Tools & Technologies Used](#-Tools--Technologies-Used)  
 6. [Project Scope](#-Project-Scope)  
