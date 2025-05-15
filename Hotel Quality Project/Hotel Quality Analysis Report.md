@@ -123,7 +123,12 @@ I developed two Excel dashboards to visualize:
 - Relationship between rating and profit margin  
 - Room type performance  
 - Payment method distribution  
-- Booking price variations across rating groups  
+- Booking price variations across rating groups
+
+## Dashboard
+
+![Hotel Dashboard](Original 1.jpg)
+ 
 
 ---
 ## Insights & Interpretation
