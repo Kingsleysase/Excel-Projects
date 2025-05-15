@@ -126,11 +126,6 @@ I developed two Excel dashboards to visualize:
 - Payment method distribution  
 - Booking price variations across rating groups
 
-## Dashboard
-
-![Hotel Dashboard](Original 1.jpg)
- 
-
 ---
 ## Insights & Interpretation
 
@@ -165,4 +160,3 @@ Please feel free to reach out for any updates, collaborations, or feedback.
 
 **Author**  
 **Kingsleysase**  
-[🔗 GitHub Profile](#-Kingsleysase)
