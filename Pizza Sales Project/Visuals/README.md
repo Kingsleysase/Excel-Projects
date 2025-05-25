@@ -1,1 +1,1 @@
-Visualizations (Dashboards) of the analysis
+Visualizations for the analysis
