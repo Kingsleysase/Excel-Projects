@@ -1,1 +1,1 @@
-Screenshots of the analysis done in the backend
+Analysis done in the backend
