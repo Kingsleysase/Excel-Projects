@@ -8,7 +8,7 @@
 5. [Project Scope](#project-scope)
 6. [Data Cleaning & Preparation](#data-cleaning--preparation)
 7. [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
-8. [Data Visualization & Dashboarding](#data-visualization--dashboarding)
+8. [Data Visualization](#data-visualization)
 9. [Insights & Interpretation](#insights--interpretation)
 10. [Recommendations](#recommendations)
 11. [Conclusion](#conclusion)
