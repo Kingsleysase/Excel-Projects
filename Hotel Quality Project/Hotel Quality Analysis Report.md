@@ -34,7 +34,7 @@ To analyze hotel booking data to:
 - Discover what influences hotel ratings.
 - Explore the financial trade-offs between high ratings and profit margins.
 - Identify seasonal and behavioral trends in bookings.
-- Recommend strategic actions to improve service and profitability.
+- Recommend strategic actions to improve service and profitability. 
 
 ---
 
@@ -93,7 +93,7 @@ The raw data was transformed and changed into a standard data format suitable fo
 - Do higher-rated hotels earn more or less profit per booking?
 - Is there a strong relationship between discounts and customer ratings?
 - Which room types are most associated with guest satisfaction?
-- Are there seasonal patterns in ratings — which months perform best or worst?
+- Are there seasonal patterns in ratings, which months perform best or worst?
 - Do payment methods correlate with higher/lower guest ratings?
 - Does booking price vary significantly between higher-rated and lower-rated hotels?
 - Do guests tend to stay longer in highly rated hotels?
@@ -124,14 +124,14 @@ I developed two Excel dashboards to visualize:
 - Relationship between rating and profit margin  
 - Room type performance  
 - Payment method distribution  
-- Booking price variations across rating groups
+- Booking price variations across rating groups, etc.
 
 ---
 ## Insights & Interpretation
 
 ### Key Takeaways:
 - Higher-rated hotels (4.5–4.7) charge **double** the price of lower-rated hotels, yet have **lower profit margins**
-- **Seasonal trends** affect ratings — January, March, May, and October see better satisfaction scores  
+- **Seasonal trends** affect ratings, January, March, May, and October, see better satisfaction scores  
 - **Double and Single Rooms** earn higher ratings; larger room types often underperform  
 - Discounts do **not strongly impact ratings** (weak correlation ~0.22)  
 - Guests paying via **Internet Banking** leave higher ratings  
@@ -150,7 +150,7 @@ I recommend that the hotel should:
 ---
 
 ## Conclusion
-This Excel-powered project highlights how simple tools, when used strategically, can uncover meaningful business insights. By connecting customer satisfaction, pricing strategy, and operational efficiency, this analysis empowers hotel decision-makers to take more informed actions.
+This Excel project highlights how simple tools, when used strategically, can uncover meaningful business insights. By connecting customer satisfaction, pricing strategy, and operational efficiency, this analysis empowers hotel decision-makers to take more informed actions.
 
 ---
 
