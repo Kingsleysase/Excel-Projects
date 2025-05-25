@@ -84,7 +84,7 @@ To keep improving, they needed answers based on real data, not guesswork.
 
 ---
 
-## Data Visualization & Dashboarding
+## Data Visualization
 
 Two full Excel dashboards were created with visuals for:
 - Hourly and daily sales
