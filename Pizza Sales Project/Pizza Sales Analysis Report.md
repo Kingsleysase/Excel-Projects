@@ -1,19 +1,17 @@
-# Pizza Sales Performance Analysis (Excel Project)
+# Pizza Sales Performance Analysis
 
 ## Table of Contents
 1. [Introduction](#introduction)  
 2. [Business Problem / Context](#business-problem--context)  
-3. [Objective of the Project](#objective-of-the-project)  
-4. [Dataset Description](#dataset-description)  
-5. [Tools & Technologies Used](#tools--technologies-used)  
-6. [Project Scope](#project-scope)  
-7. [Data Collection & Integration](#data-collection--integration)  
-8. [Data Cleaning & Preparation](#data-cleaning--preparation)  
-9. [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)  
-10. [Data Visualization & Dashboarding](#data-visualization--dashboarding)  
-11. [Insights & Interpretation](#insights--interpretation)  
-12. [Recommendations](#recommendations)  
-13. [Conclusion](#conclusion)
+3. [Objective of the Project](#objective-of-the-project)
+4. [Tools & Technologies Used](#tools--technologies-used)
+5. [Project Scope](#project-scope)
+6. [Data Cleaning & Preparation](#data-cleaning--preparation)
+7. [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
+8. [Data Visualization & Dashboarding](#data-visualization--dashboarding)
+9. [Insights & Interpretation](#insights--interpretation)
+10. [Recommendations](#recommendations)
+11. [Conclusion](#conclusion)
 
 ---
 
@@ -45,18 +43,6 @@ To keep improving, they needed answers based on real data, not guesswork.
 
 ---
 
-## Dataset Description
-
-The dataset contains:
-- 48,620 total orders  
-- 49,574 pizzas sold  
-- 32 pizza types  
-- 4 pizza categories: Classic, Veggie, Supreme, Chicken  
-- Order timestamps  
-- Pizza size, name, category, quantity, and total price
-
----
-
 ## Tools & Technologies Used
 
 - **Microsoft Excel**
@@ -77,12 +63,6 @@ The dataset contains:
 
 ---
 
-## Data Collection & Integration
-
-The data was shared as a CSV file simulating real pizza shop sales. All data was merged, formatted, and structured using Excel before any analysis began.
-
----
-
 ## Data Cleaning & Preparation
 
 - I removed blanks, fixed incorrect entries
@@ -95,11 +75,11 @@ The data was shared as a CSV file simulating real pizza shop sales. All data was
 
 ## Exploratory Data Analysis (EDA)
 
-- Found **busiest hours**: 12 PM – 1 PM and 5 PM – 7 PM
-- Found **busiest days**: Friday (most orders), followed by Saturday and Thursday
-- Identified that **Large Pizzas** dominate sales and revenue
-- Classic pizzas are the most popular by orders and revenue
-- 98% of customers order just one pizza per transaction
+- I found the **busiest hours**: 12 PM – 1 PM and 5 PM – 7 PM
+- I found the **busiest days**: Friday (most orders), followed by Saturday and Thursday
+- I identified that **Large Pizzas** dominate sales and revenue
+- I noticed that classic pizzas are the most popular by orders and revenue
+- I also saw that 98% of customers order just one pizza per transaction
 - Non-vegetarian pizzas are more popular than vegetarian ones
 
 ---
@@ -127,7 +107,7 @@ Two full Excel dashboards were created with visuals for:
 ---
 
 ## Recommendations
-
+I recommend that the business should:
 1. **Promote top-selling days** like Friday, with special offers or loyalty programs.
 2. **Offer meal bundles** or family packs to increase multiple pizza orders.
 3. **Introduce creative vegetarian options** to serve a growing health-conscious audience.
@@ -144,4 +124,10 @@ The business generated $817,860 in revenue, and this analysis helps explain *how
 
 ---
 
+Thank you for taking the time to read this report!
+
+Please feel free to reach out for any updates, collaborations, or feedback.
+
+**Author**  
+**Kingsleysase**  
 
