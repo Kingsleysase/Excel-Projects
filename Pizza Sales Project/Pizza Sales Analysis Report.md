@@ -97,12 +97,12 @@ Two full Excel dashboards were created with visuals for:
 
 ## Insights & Interpretation
 
-- **Large Pizzas** are the most profitable — customers prefer bigger sizes
+- **Large Pizzas** are the most profitable, customers prefer bigger sizes
 - **Classic Deluxe Pizza** is the top-selling product (2,416 orders)
 - **Thai Chicken, Barbecue Chicken**, and **California Chicken** bring in the most revenue (~$43K each)
-- Most customers **order alone** — a big opportunity to upsell bundles
-- **Vegetarian pizzas** are under-marketed despite 11,449 orders — potential for growth
-- Peak hours = **Lunch and Dinner Rush** — marketing should focus here
+- Most customers **order alone**, a big opportunity to upsell bundles
+- **Vegetarian pizzas** are under-marketed despite 11,449 orders, with potential for growth
+- Peak hours = **Lunch and Dinner Rush**,  marketing should focus here
 
 ---
 
@@ -111,7 +111,7 @@ I recommend that the business should:
 1. **Promote top-selling days** like Friday, with special offers or loyalty programs.
 2. **Offer meal bundles** or family packs to increase multiple pizza orders.
 3. **Introduce creative vegetarian options** to serve a growing health-conscious audience.
-4. **Double down on large sizes** — they dominate sales, so keep them well-stocked and well-made.
+4. **Double down on large sizes**, they dominate sales, so keep them well-stocked and well-made.
 5. **Try breakfast pizza options or weekend brunch menus** to increase sales during slow hours (morning, Sundays).
 
 ---
@@ -120,7 +120,7 @@ I recommend that the business should:
 
 This Excel-based pizza sales analysis shows how simple tools can deliver strong business results. From pricing strategy to customer behavior, the project uncovered ways to improve service and profitability using data storytelling.
 
-The business generated $817,860 in revenue, and this analysis helps explain *how* and *why*. It’s a reminder that **every pizza ordered is more than a slice — it’s a signal**. And data, when used right, helps you turn those signals into smarter decisions.
+The business generated $817,860 in revenue, and this analysis helps explain *how* and *why*. It’s a reminder that **every pizza ordered is more than a slice, it’s a signal**. And data, when used right, helps you turn those signals into smarter decisions.
 
 ---
 
