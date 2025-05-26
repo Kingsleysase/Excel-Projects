@@ -1,1 +1,1 @@
-Visualizatons for the analysis
+Visualizations for the analysis
