@@ -1,19 +1,18 @@
-# 🇺🇸 USA Travel Destinations Analysis (Excel Project)
+# USA Travel Destinations Analysis
 
-## 📑 Table of Contents
+## Table of Contents
 1. [Introduction](#introduction)  
 2. [Business Problem / Context](#business-problem--context)  
-3. [Objective of the Project](#objective-of-the-project)  
-4. [Dataset Description](#dataset-description)  
-5. [Tools & Technologies Used](#tools--technologies-used)  
-6. [Project Scope](#project-scope)  
-7. [Data Collection & Integration](#data-collection--integration)  
-8. [Data Cleaning & Preparation](#data-cleaning--preparation)  
-9. [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)  
-10. [Data Visualization](#data-visualization)  
-11. [Insights & Interpretation](#insights--interpretation)  
-12. [Recommendations](#recommendations)  
-13. [Conclusion](#conclusion)  
+3. [Objective of the Project](#objective-of-the-project)
+4. [Tools & Technologies Used](#tools--technologies-used)
+5. [Project Scope](#project-scope)
+6. [Data Collection & Integration](#data-collection--integration)
+7. [Data Cleaning & Preparation](#data-cleaning--preparation)
+8. [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
+9. [Data Visualization](#data-visualization)
+10. [Insights & Interpretation](#insights--interpretation)
+11. [Recommendations](#recommendations)
+12. [Conclusion](#conclusion)  
 
 ---
 
@@ -35,15 +34,6 @@ I had three goals:
 - Firstly, to identify the most visited international destinations by U.S. travelers  
 - Analyze seasonal, monthly, and weekly travel patterns  
 - Create an Excel dashboard with clear insights and recommendations  
-
----
-
-## Dataset Description
-
-- 31 years of U.S. international travel data  
-- Covers 46 destinations  
-- 4 billion total passenger journeys  
-- Includes monthly, weekly, and annual breakdowns  
 
 ---
 
@@ -71,7 +61,7 @@ The data came from official U.S. government travel records. I cleaned and integr
 
 ---
 
-## 🧹 Data Cleaning & Preparation
+## Data Cleaning & Preparation
 
 I dealt with:
 - Inconsistent destination names  
@@ -98,13 +88,9 @@ I built an Excel dashboard with:
 - Charts for top destinations, seasonal trends, and day-of-week performance  
 - Filters and slicers so users can explore the data themselves  
 
-### Dashboard
-
-![USA Travel Dashboard](U.S International Travel Viz.jpg)
-
 ---
 
-## 🧠 Insights & Interpretation
+## Insights & Interpretation
 
 - **Proximity matters**: Canada and Mexico had the most trips  
 - **Summer is king**: July and August are high-volume months  
