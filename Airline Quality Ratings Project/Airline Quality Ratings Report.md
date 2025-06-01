@@ -1,4 +1,4 @@
-# My Airline Customer Satisfaction Analysis Project
+# Airline Quality Ratings Project
 
 ## Table of Contents
 1. [Project Overview & Methodology](#project-overview--methodology)
