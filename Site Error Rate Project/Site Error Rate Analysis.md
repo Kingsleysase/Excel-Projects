@@ -142,3 +142,9 @@ This analysis proves that the organization possesses both the capability for ope
 **My Next Steps**:
 I recommend implementing these recommendations with continued monthly monitoring and quarterly comprehensive reviews. The foundation for operational excellence exists in the data I have analyzed, the focus should now be on consistent execution and continuous improvement across all sites using the insights I’ve provided.
 
+---
+
+Thanks for reading!
+
+Feel free to check out more projects [here](https://github.com/Kingsleysase/Excel-Projects)  
+**Author:** Kingsley Sase  
