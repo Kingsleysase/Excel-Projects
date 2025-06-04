@@ -4,7 +4,7 @@
 1. [Project Overview & Methodology](#project-overview--methodology)
 2. [Data Analysis & Key Discoveries](#data-analysis--key-discoveries)  
 3. [Critical Insights & Business Impact](#critical-insights--business-impact)  
-4. [Recommendations & Strategic Roadmap](#recommendations--strategic-roadmap)
+4. [Recommendations](#recommendations)
 
 ---
 
